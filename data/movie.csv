@@ -1,0 +1,1001 @@
+id,title,genre,attendance,year
+1,Breakin',Drama|Musical,11149254,2016-06-26
+2,"Oranges and Sunshine",Drama,11068581,2019-04-02
+3,"Hell Town (Born to the West)",Romance|Western,3374529,2015-12-29
+4,Expelled,Comedy,1884549,2017-03-13
+5,"Marva Collins Story, The",Documentary|Drama,10091713,2017-08-28
+6,"Red Dragon",Crime|Mystery|Thriller,22359969,2011-07-10
+7,"Belizaire the Cajun",Drama,30492357,2018-08-12
+8,"Few Best Men, A",Comedy,3907022,2015-06-04
+9,"As Cool As I Am",Comedy|Drama,9638012,2017-10-04
+10,"Naughty Room, The",Comedy|Drama,24805255,2018-01-29
+11,"Green Card",Comedy|Drama|Romance,7489137,2011-12-28
+12,"Kanak Attack",Drama,27426895,2013-08-21
+13,"Birth of a Nation, The",Drama|War,3176148,2016-04-24
+14,"Global Metal",Documentary,18897697,2017-10-02
+15,"Curse, The (a.k.a. The Farm)",Horror|Sci-Fi,12052980,2014-01-16
+16,"Trailer Park Boys: The Movie",Comedy|Crime,19684480,2012-01-17
+17,"Finger, The (Dedo, El)",Comedy,7596525,2012-08-04
+18,"U.S. Marshals",Action|Crime|Thriller,24210775,2012-01-13
+19,"Reflections in a Golden Eye",Drama,4297345,2013-01-21
+20,"French Cancan",Comedy|Drama|Musical|Romance,29143647,2016-06-08
+21,"Under Suspicion",Crime|Thriller,10199671,2019-04-26
+22,"Photographer (Fotoamator)",Documentary,20041619,2013-09-20
+23,"Uncle Boonmee Who Can Recall His Past Lives (Loong Boonmee raleuk chat)",Drama|Fantasy,16288913,2016-07-09
+24,"Madame Curie",Drama,18714309,2017-04-20
+25,"Big Combo, The",Film-Noir,6442071,2012-03-11
+26,"Already Dead",Action|Fantasy|Thriller,10197266,2015-06-09
+27,"Karate Kid, Part II, The",Action|Adventure|Drama,5182412,2018-05-07
+28,"Missing Picture, The (L'image manquante)",Documentary,9487949,2013-12-07
+29,Catfish,Documentary|Mystery,23548320,2014-11-24
+30,"Bad Seed, The",Drama|Thriller,7243076,2013-11-28
+31,"Guyana Tragedy: The Story of Jim Jones",Drama,3407519,2020-04-22
+32,"In the Midst of Life (Au coeur de la vie)",Drama|War,24266823,2011-11-13
+33,"Eloise at Christmastime",Children|Comedy|Drama,18973518,2016-01-23
+34,"Under the Skin of the City (Zir-e-poost-e Shahr)",Drama,26801086,2012-07-20
+35,"The Last Round",Action|Thriller,21710540,2019-04-09
+36,"Suspicious River",Drama,16869397,2017-07-11
+37,"Still Breathing",Comedy|Romance,9304885,2011-05-13
+38,Platoon,Drama|War,27630311,2012-04-03
+39,"T,O,U,C,H,I,N,G","(no genres listed)",19996615,2019-10-01
+40,"Here Without Me (Inja bedoone man)",Drama|Film-Noir|Mystery|Romance,11690042,2014-05-26
+41,"Saving Face",Documentary|Drama,15546348,2014-05-02
+42,"Revenge of the Pink Panther",Comedy|Crime,26504539,2013-03-03
+43,"Last Sunset, The",Western,7674883,2016-05-14
+44,"Sink the Bismark!",Action|Drama|War,25664028,2017-02-02
+45,"Godson, The",Comedy|Crime,29223654,2011-10-01
+46,"Lightning in a Bottle",Documentary,23108467,2012-06-02
+47,"Invitation to Happiness",Drama|Romance,4121381,2013-04-22
+48,"Winter Guest, The",Drama,2489886,2017-12-06
+49,"Das Experiment (Experiment, The)",Drama|Thriller,10176691,2018-02-27
+50,"Return to Salem's Lot, A",Horror,19451354,2012-07-24
+51,"Brave One, The",Crime|Drama|Thriller,25343925,2016-11-05
+52,"Yes Or No",Comedy|Drama|Romance,28240221,2013-07-15
+53,"Kilometre Zero (Kilomètre zéro)",Drama|War,7983892,2013-11-11
+54,"Stolen Summer",Drama,23128094,2014-08-13
+55,Zelig,Comedy,17660689,2016-05-19
+56,"Torn Curtain",Thriller,952855,2014-06-17
+57,Earth,Documentary,17703531,2017-09-07
+58,"Richard Pryor: Live in Concert",Comedy|Documentary,9594888,2011-05-29
+59,"Three Smart Girls Grow Up",Comedy|Musical|Romance,26441658,2015-11-22
+60,"Man in the Iron Mask, The",Adventure,5465557,2015-01-16
+61,"Run of the Arrow",Western,4452851,2015-01-29
+62,Beastly,Drama|Fantasy|Romance,4768209,2015-07-16
+63,"Strange Circus (Kimyô na sâkasu)",Horror|Mystery|Thriller,4848411,2012-11-07
+64,Dillinger,Crime|Drama|Film-Noir,28351059,2015-05-13
+65,"Double Jeopardy",Action|Crime|Drama|Thriller,18698742,2015-12-14
+66,"Apparition, The",Horror|Thriller,28610613,2016-06-20
+67,"It's All Gone Pete Tong",Comedy|Drama|Musical,13673698,2019-12-07
+68,Testament,Drama,14055810,2016-11-29
+69,"Ballad of Ramblin' Jack, The",Documentary,1538753,2016-11-30
+70,"No Time for Love",Comedy|Romance,27153138,2011-10-24
+71,"Alien Contamination",Action|Horror|Sci-Fi,22375774,2014-11-28
+72,"Space Pirate Captain Harlock: Arcadia of My Youth (Waga seishun no Arcadia)",Action|Adventure|Animation|Drama|Sci-Fi,23503802,2012-01-16
+73,"Sinners and Saints",Action|Crime,11914124,2017-12-07
+74,"City by the Sea",Crime|Drama,18790411,2014-11-12
+75,"Small Back Room, The",Romance|Thriller,12210715,2011-12-05
+76,"Billy Elliot",Drama,24151854,2013-01-14
+77,"Last Days in the Desert",Adventure|Drama,21925056,2016-12-10
+78,"Trial of Joan of Arc, The (Procès de Jeanne d'Arc)",Drama|War,27524934,2018-11-22
+79,"Farewell, The (Abschied - Brechts letzter Sommer)",Drama,30593306,2014-09-24
+80,Timecop,Action|Sci-Fi|Thriller,6971402,2016-01-29
+81,"Battlestar Galactica: Blood & Chrome",Sci-Fi,15955232,2015-06-16
+82,"Girl Shy",Action|Comedy|Drama|Romance,24027098,2013-03-16
+83,"American Grindhouse",Documentary,11197292,2020-03-21
+84,"Deconstructing Harry",Comedy|Drama,24188854,2013-03-27
+85,"Stockholm Stories",Drama,14566973,2016-01-18
+86,"Reggie Watts: Why Shit So Crazy?",Comedy,21377608,2016-07-03
+87,"Major Dundee",Adventure|War|Western,8588490,2013-03-27
+88,"You Are God (Jestes Bogiem)",Drama,6843261,2012-11-05
+89,"Hole in the Soul, A (Rupa u dusi)",Comedy|Documentary,1815547,2012-12-05
+90,"Main Street",Drama,4797647,2014-07-21
+91,"Escape Plan",Action|Mystery|Thriller,14461577,2019-05-30
+92,Albuquerque,Romance|Western,4209791,2020-02-13
+93,Strangeland,Thriller,20768963,2012-04-25
+94,"Tales from Earthsea (Gedo Senki)",Adventure|Animation|Fantasy,21927113,2015-01-01
+95,"Promoter, The (Card, The)",Comedy,19822169,2012-01-26
+96,"Murder in Coweta County",Crime|Drama,28793620,2019-06-10
+97,"Verlorene, Der (Lost One, The)",Crime|Drama|Thriller,16031224,2012-07-10
+98,"Dirty Sanchez: The Movie",Comedy,3506320,2016-05-04
+99,Golem,Drama|Mystery|Sci-Fi,20049978,2011-11-01
+100,"To Die For",Comedy|Drama|Thriller,18451267,2016-09-16
+101,"The Hire: Follow, The",Drama,9477358,2019-06-02
+102,Shattered,Mystery|Thriller,3464466,2013-07-23
+103,"Brain, The",Horror|Sci-Fi,13109688,2017-11-27
+104,Favor,Thriller,7528114,2012-04-11
+105,"Singapore Sling (Singapore sling: O anthropos pou agapise ena ptoma)",Crime|Film-Noir|Horror|Romance|Thriller,2717842,2011-01-09
+106,"Puss in Boots",Adventure|Animation|Comedy|Fantasy|IMAX,1247969,2015-02-19
+107,"Where Eagles Dare",Action|Adventure|War,30869365,2016-12-18
+108,Frankenweenie,Animation|Comedy|Horror|IMAX,16541448,2018-10-05
+109,"Sweet Karma",Crime|Drama|Thriller,26443230,2012-11-26
+110,"Bring on the Night",Documentary|Musical,30379192,2019-01-09
+111,"DMT: The Spirit Molecule",Documentary,24563898,2013-03-06
+112,"Vince Vaughn's Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland",Comedy|Documentary,17526660,2016-07-20
+113,"Code Name Coq Rouge","(no genres listed)",27517393,2011-11-13
+114,Hackers,Action|Adventure|Crime|Thriller,5238895,2016-02-24
+115,"Ticked-Off Trannies with Knives",Action|Comedy|Crime|Horror|Thriller,4998341,2013-06-30
+116,"Pippi in the South Seas (Pippi Långstrump på de sju haven)",Adventure|Children,7077973,2013-12-24
+117,"Truly, Madly, Deeply",Drama|Romance,10924203,2017-04-10
+118,"Rouva presidentti",Documentary,14260618,2019-05-27
+119,"Holy Land, The",Drama,19726030,2013-09-11
+120,Valentino,Drama,23023408,2017-04-20
+121,"Once My Mother",Documentary,20302440,2014-08-26
+122,"Match King, The",Drama,6038323,2015-09-21
+123,"Fuck You, Goethe (Fack Ju Göhte)",Comedy,24615874,2014-11-01
+124,"Stranger on the Third Floor",Drama|Film-Noir,2304000,2014-01-16
+125,"Never Talk to Strangers",Crime|Drama|Romance|Thriller,3831803,2020-07-15
+126,"Get Shorty",Comedy|Crime|Thriller,23385888,2017-02-21
+127,"Battle of Shaker Heights, The",Comedy|Drama|Romance,6450174,2016-01-07
+128,"Think Like a Man",Comedy,5421230,2011-03-02
+129,"Welcome Home, Roscoe Jenkins",Comedy,13305885,2011-01-19
+130,"Fine Mess, A",Comedy,8644486,2012-08-03
+131,"Women of the Night (Yoru no onnatachi)",Drama,15180743,2014-04-11
+132,"Marlene Dietrich: Shadow and Light",Documentary,30646860,2020-07-05
+133,"Mouth to Mouth (Boca a boca)",Comedy,3574936,2013-06-03
+134,"The Stanford Prison Experiment",Drama|Thriller,27402676,2016-08-26
+135,"This is Our Time",Drama,19230037,2011-06-07
+136,"Misérables, Les",Drama|Musical|Romance|IMAX,3630213,2012-06-12
+137,"The Trip to Squash Land",Animation,7799414,2014-07-19
+138,Arsenal,Drama|War,1640049,2018-01-27
+139,"Hunted, The",Action,16006315,2014-06-11
+140,"Duellists, The",Action|War,29484613,2011-12-12
+141,"History of Postwar Japan as Told by a Bar Hostess (Nippon Sengoshi - Madamu onboro no Seikatsu)",Documentary,30728893,2016-01-02
+142,"New Leaf, A",Comedy|Romance,10420839,2020-05-22
+143,"Stepfather II",Horror|Thriller,30288298,2019-05-30
+144,"Back Soon",Drama|Romance,4975425,2016-07-30
+145,"Abandon Ship! (Seven Waves Away)",Adventure|Drama,8130826,2015-06-18
+146,"Frenchmen (Le coeur des hommes)",Comedy|Romance,21242201,2013-07-11
+147,Notorious,Drama|Musical,24714683,2019-11-26
+148,"Neon Bible, The",Drama,28472694,2013-04-05
+149,"Angel Face",Crime|Drama|Film-Noir,16186083,2017-07-31
+150,"Budz House",Comedy,6768881,2017-03-22
+151,"Three and Out (Deal Is a Deal, A)",Comedy|Drama,28583230,2013-01-02
+152,"William Shakespeare's A Midsummer Night's Dream",Comedy|Fantasy,9739021,2019-08-28
+153,"Children of a Lesser God",Drama,15472811,2017-11-01
+154,"Flaming Star",Western,22296276,2013-07-19
+155,"300: Rise of an Empire",Action|Drama|War|IMAX,12501927,2018-12-18
+156,"Best of the Badmen",Western,15750559,2017-04-27
+157,"Katalin Varga",Crime|Drama|Thriller,16364393,2013-03-02
+158,"Bitch, The (La chienne)",Drama,1997703,2013-10-01
+159,"Monster Club, The",Comedy|Horror,11413391,2018-01-15
+160,"Welcome Mr. Marshall (Bienvenido Mister Marshall)",Comedy,13917463,2020-01-13
+161,"Time and Tide (Seunlau Ngaklau)",Action|Crime|Thriller,30005522,2011-11-10
+162,"The Casino Murder Case",Action|Drama|Mystery,22052784,2014-07-05
+163,"Kite Runner, The",Drama,658629,2011-12-19
+164,"No Looking Back",Drama|Romance,16006380,2012-10-18
+165,"Morning Glory",Comedy|Drama|Romance,26997954,2019-10-15
+166,Innocence,Drama,25972822,2014-11-25
+167,"Warm December, A",Drama|Romance,10405290,2019-04-24
+168,"Legend of Drunken Master, The (Jui kuen II)",Action|Comedy,29195912,2013-07-16
+169,"Decision Before Dawn",Drama|War,25790806,2015-03-13
+170,"Shoot to Kill",Action|Adventure,17979797,2019-09-05
+171,"Track 29",Drama|Mystery,7437239,2018-11-14
+172,"Pretty Woman",Comedy|Romance,17627004,2012-12-17
+173,"Swann in Love (Un amour de Swann)",Drama,26280060,2018-06-28
+174,"God Bless Ozzy Osbourne",Documentary,15241880,2013-06-28
+175,"Earrings of Madame de..., The (Madame de...)",Drama,2864124,2019-06-15
+176,"Ricky Gervais Live 3: Fame",Comedy,21707111,2013-01-17
+177,"Genealogies of a Crime (Généalogies d'un crime)",Crime|Drama,284109,2019-11-10
+178,"Office Killer",Thriller,23650678,2018-12-23
+179,"A Pigeon Sat on a Branch Reflecting on Existence",Comedy|Drama,5474209,2014-12-31
+180,"God's Sandbox (Tahara)",Drama,17082049,2015-02-28
+181,"Bubble Boy",Comedy,15593743,2018-01-12
+182,"Mean Streets",Crime|Drama,22645622,2014-04-14
+183,"Across the Hall",Thriller,11502635,2012-11-23
+184,"Alice and Martin (Alice et Martin)",Drama,25556490,2020-06-04
+185,"Helicopter String Quartet",Documentary,20663840,2015-11-22
+186,"A Matador's Mistress",Drama|Romance,6933429,2014-06-25
+187,"My Dog Skip",Children|Drama,6658552,2020-06-27
+188,"Death Note",Adventure|Crime|Drama|Horror|Mystery,5712929,2018-11-13
+189,"Steel Magnolias",Drama,7548058,2020-05-18
+190,"Welcome to Sherwood! The Story of 'The Adventures of Robin Hood'",Documentary,24340363,2013-01-14
+191,"School Daze",Drama,7964684,2018-01-15
+192,"Stranger Within, The",Thriller,17910644,2018-10-20
+193,Dreamgirls,Drama|Musical,25344671,2018-08-04
+194,"The Imitation Game",Drama|Thriller,201217,2014-07-16
+195,Murderball,Documentary,6190357,2011-04-28
+196,"AVP: Alien vs. Predator",Action|Horror|Sci-Fi|Thriller,9048215,2019-12-02
+197,"Times of Harvey Milk, The",Documentary,40840,2011-12-15
+198,"Sovereign's Company",Drama,2771818,2019-09-15
+199,"Wet Parade, The",Drama|Romance,709889,2016-10-09
+200,"The Beast of the City",Crime|Drama|Film-Noir|Romance,5915713,2019-11-07
+201,"Scarecrow, The",Comedy,3728055,2020-04-10
+202,Casablanca,Drama|Romance,15407506,2020-02-01
+203,"West Side Story",Drama|Musical|Romance,21684583,2016-06-04
+204,"American Gothic",Horror,17558734,2018-09-30
+205,"My Friends (Amici miei)",Comedy,23488474,2019-07-16
+206,"Band Wagon, The",Comedy|Musical,5189150,2018-04-10
+207,"Hunchback of Notre Dame, The",Drama|Horror,4935755,2012-09-25
+208,"Crossing Delancey",Comedy|Romance,8494575,2012-07-10
+209,"The Butterfly Effect",Drama|Sci-Fi|Thriller,8571753,2011-01-14
+210,"Evil Aliens",Comedy|Horror|Sci-Fi,21277076,2011-02-18
+211,"No Time For Sergeants",Adventure|Comedy|War,22231444,2019-12-19
+212,"Family Affair ",Documentary,4454662,2017-12-23
+213,"Station Agent, The",Comedy|Drama,27673329,2011-11-23
+214,Assassination,Action|Drama|Thriller,6960605,2017-06-28
+215,"Private Function, A",Comedy,9055154,2016-03-21
+216,"This Film Is Not Yet Rated",Documentary,3638459,2016-04-09
+217,"Cast A Deadly Spell",Comedy|Fantasy|Horror,9621375,2019-12-02
+218,"Chang: A Drama of the Wilderness",Adventure|Documentary,6778415,2012-04-06
+219,"War Within, The",Drama,25623352,2018-08-04
+220,"Valley of the Dolls",Drama,21132784,2019-04-10
+221,"Blow-Up (Blowup)",Drama|Mystery,6401129,2018-03-03
+222,"Time After Time",Sci-Fi|Thriller,4103418,2013-07-12
+223,Ruins,Documentary,5008289,2014-01-14
+224,"Guyana Tragedy: The Story of Jim Jones",Drama,3614944,2018-09-23
+225,"Accidental Husband, The",Comedy|Romance,211498,2017-05-21
+226,"Crossing Over",Drama,25835351,2011-07-13
+227,"United States of Leland, The",Crime|Drama,17905199,2019-11-25
+228,"Loving Annabelle",Drama|Romance,21512473,2016-06-18
+229,"Shock and Awe: The Story of Electricity",Documentary,25036402,2013-03-23
+230,"Lord of Tears",Drama|Horror,6588038,2012-01-24
+231,"Onmyoji (Onmyoji: The Yin Yang Master)",Action|Drama|Fantasy|Horror,29894033,2014-01-26
+232,"Diario de un skin",Documentary,13418977,2012-09-10
+233,"Twin Town",Comedy|Crime,29858898,2011-11-29
+234,"Harry Potter and the Order of the Phoenix",Adventure|Drama|Fantasy|IMAX,2590372,2012-02-24
+235,"Mystery Road",Mystery|Thriller,5371690,2011-01-03
+236,"No Blade of Grass",Drama|Sci-Fi,13886356,2017-04-05
+237,"Castaway Cowboy, The",Comedy|Western,23046263,2018-05-04
+238,"Escobar: Paradise Lost",Romance|Thriller,22958691,2019-07-22
+239,"Too Early, Too Late (Trop tôt, trop tard)",Drama,10465430,2015-03-12
+240,"Superstar: The Karen Carpenter Story",Drama|Musical,28391870,2017-08-17
+241,"Darjeeling Limited, The",Adventure|Comedy|Drama,19330874,2013-08-27
+242,"Johnny Was",Action|Crime|Drama|Thriller,16977143,2014-12-21
+243,"9 1/2 Weeks (Nine 1/2 Weeks)",Drama|Romance,8849411,2013-11-16
+244,"Low Life",Drama,11182908,2018-05-19
+245,"Lights Out",Drama|Mystery|Thriller,4786825,2017-05-18
+246,"Rickshaw Man, The (Muhomatsu no issho)",Comedy|Drama,14247041,2011-06-12
+247,"The Natural Love",Documentary,4962657,2016-02-28
+248,"Abbott and Costello Meet the Keystone Kops",Comedy,26425810,2018-10-02
+249,"Munger Road",Horror|Mystery|Thriller,13526423,2013-05-17
+250,"I'm Crazy About Iris Blond",Comedy|Romance,20140269,2017-08-10
+251,Sabotage,Action|Crime|Drama,11875427,2013-11-03
+252,"Bad News Bears Go to Japan, The",Comedy,792683,2012-12-13
+253,"Pyramid, The",Horror,2131666,2016-04-24
+254,"7 Men from Now (Seven Men from Now)",Western,249865,2014-09-19
+255,"Plans for Tomorrow (Planes para mañana)",Drama,22315065,2015-08-04
+256,"Up the Yangtze",Documentary,5020352,2015-04-30
+257,"Bridge of Dragons",Action|Romance|Sci-Fi|Thriller,30989045,2017-12-08
+258,"In China They Eat Dogs (I Kina spiser de hunde)",Action|Comedy,3719393,2016-03-02
+259,"Cure for Love, A (Lekarstwo na milosc)",Comedy|Crime|Romance,20716844,2017-06-29
+260,"Lone Wolf McQuade",Action,28450266,2015-04-01
+261,"Rubber Johnny",Animation|Horror,27285966,2012-04-27
+262,"Boys from Brazil, The",Action|Mystery|Thriller,12497261,2016-09-30
+263,Scandal,Drama,23227452,2016-01-10
+264,"South Central",Action|Crime|Drama,4110703,2016-11-27
+265,"Mambo Italiano",Comedy,17925414,2018-11-05
+266,"At Home by Myself... with You",Comedy|Romance,2589115,2015-03-06
+267,"Irina Palm",Drama,24193368,2020-03-27
+268,"Crime and Punishment in Suburbia",Comedy|Drama,11210024,2018-10-14
+269,Wolves,Documentary|IMAX,29929485,2015-03-14
+270,Detention,Action|Drama|Thriller,22447248,2017-11-07
+271,Explorers,Adventure|Children|Sci-Fi,14851694,2018-08-11
+272,"Live and Become (Va, vis et deviens)",Drama,29721181,2016-05-26
+273,"Swarm, The",Action|Horror|Sci-Fi,16268819,2020-06-01
+274,"Fly Away Home",Adventure|Children,1115359,2017-01-10
+275,"Happily Ever After (Ils se marièrent et eurent beaucoup d'enfants)",Comedy|Drama,3596790,2012-08-30
+276,"Needing You... (Goo naam gwa neui)",Comedy|Romance,26918041,2011-12-27
+277,"Express, The",Drama,2835259,2020-03-14
+278,"White Ribbon, The (Das weiße Band)",Drama|Mystery,3315612,2018-07-29
+279,Sunset,Action|Comedy|Thriller|Western,21902365,2015-10-08
+280,"Quarantine 2: Terminal",Horror|Mystery|Sci-Fi,22829964,2020-06-19
+281,"Never Been Kissed",Comedy|Romance,20521651,2017-02-13
+282,"Superman vs. The Elite",Action|Animation,21890569,2019-12-29
+283,"Quartier Mozart",Comedy,27076325,2020-06-03
+284,"New Jean-Claude, The (Le nouveau Jean-Claude)",Comedy|Romance,2538662,2019-10-20
+285,"Concorde: Airport '79, The",Drama,26797572,2015-09-08
+286,"Rising Sun",Action|Drama|Mystery,27537528,2014-12-31
+287,"The Brass Legend",Action,16206046,2012-07-13
+288,"Late Show, The",Comedy|Crime|Drama|Mystery,23091906,2020-02-27
+289,"I Married a Witch",Comedy|Fantasy|Romance,27758058,2020-03-04
+290,"Night of the Shooting Stars (Notte di San Lorenzo, La)",Drama|War,22523954,2018-01-31
+291,"Sweetest Thing, The",Comedy|Romance,11768475,2019-02-27
+292,"Olive Kitteridge",Drama,1790169,2018-12-24
+293,"Scary Movie 2",Comedy,10896655,2014-12-12
+294,"Criminal Lovers",Crime|Drama|Romance|Thriller,23481111,2016-09-06
+295,Carandiru,Crime|Drama,18470016,2018-01-21
+296,"Texas Chainsaw 3D",Horror|Mystery|Thriller,9936879,2012-10-11
+297,ATM,Horror|Thriller,803046,2020-01-05
+298,"Critical Care",Comedy|Drama,9645136,2011-02-04
+299,"Naked Gun 2 1/2: The Smell of Fear, The",Comedy,16674303,2020-07-09
+300,"Friends of God: A Road Trip with Alexandra Pelosi",Documentary,7458435,2017-07-14
+301,"Hairdresser's Husband, The (Le mari de la coiffeuse)",Comedy|Drama|Romance,20981120,2019-09-25
+302,"Assault of the Sasquatch (Sasquatch Assault)",Action|Horror,17468915,2013-07-02
+303,Scarecrows,Horror,28692914,2018-04-05
+304,"Zigeunerweisen (Tsigoineruwaizen)",Horror|Mystery,16926724,2013-10-26
+305,"Collector, The",Crime|Horror|Thriller,29761931,2018-11-11
+306,"Snows of Kilimanjaro, The (Neiges du Kilimandjaro, Les)",Drama,24206554,2018-07-08
+307,Black,Drama,26638962,2015-12-09
+308,"The Lego Movie",Action|Adventure|Animation|Children|Comedy|Fa,22109154,2018-01-20
+309,"IMAX: Coral Reef Adventure",Children|Documentary|IMAX,8443694,2013-05-13
+310,"Stan Helsing",Comedy|Horror,20673777,2012-12-11
+311,"Louise Bourgeois: The Spider, the Mistress and the Tangerine",Documentary,22915391,2017-11-18
+312,"Disco Pigs",Drama,431006,2019-03-24
+313,"Frozen Planet",Documentary,357844,2011-05-08
+314,"Passion of Anna, The (Passion, En)",Drama,809839,2018-08-02
+315,"City Zero",Comedy|Drama|Sci-Fi,25202754,2015-03-08
+316,"Dickie Roberts: Former Child Star",Comedy,7215048,2019-11-16
+317,"Sex & the Other Man",Comedy|Drama,20257504,2011-08-05
+318,"Just Add Water",Comedy|Romance,6029593,2015-03-05
+319,"As Cool As I Am",Comedy|Drama,6201617,2014-07-18
+320,"Legion of the Dead",Comedy|Horror,8398123,2020-07-06
+321,"Casablanca Express",Action|War,23124310,2015-06-13
+322,"Gymnast, The",Drama|Romance,15755170,2012-05-23
+323,"La cravate","(no genres listed)",1087164,2015-12-14
+324,Gator,Action|Drama,15759497,2019-11-28
+325,"First Time, The",Comedy|Drama|Romance,5224251,2014-04-23
+326,Arrowsmith,Drama,7986109,2016-08-11
+327,"Woman's Tale, A",Drama,3605364,2012-03-02
+328,"Elevator Girl",Comedy|Romance,1479277,2019-02-17
+329,"Mr. North",Comedy|Drama,23473522,2015-09-17
+330,"Mary, Queen of Scots",Drama,18088119,2017-01-05
+331,"Man Who Fell to Earth, The",Drama|Sci-Fi,3148955,2015-03-31
+332,"Frankenstein 90",Comedy|Horror|Romance,29584926,2011-07-09
+333,4,Drama,21635918,2013-02-08
+334,"Private Life of Henry VIII, The",Comedy|Drama,20742372,2019-07-17
+335,"Killing Room, The",Drama|Mystery|Thriller,7966038,2014-11-08
+336,Ossessione,Drama,24461807,2016-09-03
+337,"3000 Miles to Graceland",Action|Thriller,548520,2018-04-19
+338,"Greater Promise, A (Iskateli Schastya)",Crime|Drama|Western,3118460,2018-01-10
+339,"Heavy Metal 2000",Action|Adventure|Animation|Fantasy|Sci-Fi,11657877,2014-09-05
+340,"How the West Was Fun",Children|Western,14089011,2011-06-08
+341,"Innocent, The (Innocente, L')",Drama|Romance,23345386,2015-11-01
+342,"Alice in the Cities (Alice in den Stadten)",Drama,24524122,2017-12-30
+343,"Power Play",Drama|Thriller,461020,2020-05-22
+344,"Princess and the Goblin, The",Animation|Fantasy,25895584,2018-09-19
+345,"Clubland (a.k.a. Introducing the Dwights)",Comedy|Drama,18001690,2015-10-13
+346,"Can I Do It 'Till I Need Glasses?",Comedy,16345596,2016-12-15
+347,"Shadows of Our Forgotten Ancestors (Tini zabutykh predkiv)",Drama|Romance,367839,2017-07-16
+348,"Sachs' Disease (La maladie de Sachs)",Drama,10816386,2016-10-15
+349,"Women, The",Comedy|Drama,27159165,2012-04-10
+350,"Runaway Bride",Comedy|Romance,29880260,2012-01-04
+351,"G.I. Joe: The Movie",Action|Adventure|Animation|Children|Fantasy|S,11768449,2012-08-07
+352,"Earth Trembles, The (Terra trema: Episodio del mare, La)",Drama,22797923,2017-05-18
+353,"After Alice (Eye of the Killer)",Crime|Drama|Mystery|Thriller,6480117,2020-03-25
+354,"Nine to Five (a.k.a. 9 to 5)",Comedy|Crime,22875912,2015-11-22
+355,Coquette,Drama,4018346,2017-06-29
+356,Bloodfist,Action,3110962,2018-09-08
+357,Trance,Horror,27651360,2017-04-22
+358,"Bus Stop",Comedy,12499037,2012-04-29
+359,"I Always Wanted to Be a Gangster (J'ai toujours rêvé d'être un gangster)",Comedy|Crime|Drama,18042309,2014-05-19
+360,"Off the Map",Comedy|Drama,7173307,2013-03-05
+361,"Reckoning, The",Crime|Mystery|Thriller,28528751,2015-11-15
+362,"William S. Burroughs: A Man Within",Documentary,6892749,2013-11-29
+363,"Babylon 5: The River of Souls",Drama|Sci-Fi,12726533,2011-05-24
+364,"Story of Xinghua, The (Xinghua san yue tian)",Drama,16182055,2019-11-10
+365,Detroit,Drama,21406511,2019-08-09
+366,"Last Detail, The",Comedy|Drama,3670085,2015-07-08
+367,"The Man Who Lived Again",Horror|Sci-Fi,1458469,2011-07-18
+368,Demonlover,Crime|Drama|Mystery|Thriller,16172623,2019-11-26
+369,"Four Nights of a Dreamer (Quatre nuits d'un rêveur)",Drama|Romance,18255538,2016-04-23
+370,"Horror Express",Horror,19201832,2017-05-11
+371,"Mon Oncle (My Uncle)",Comedy,3933122,2014-07-06
+372,"What About Dick?",Comedy,5020781,2012-06-29
+373,"Not with My Wife, You Don't!",Comedy|Drama,27142004,2011-08-20
+374,"Voodoo Tiger",Adventure,8870808,2018-06-25
+375,"Ollie Hopnoodle's Haven of Bliss",Children|Comedy,15680213,2012-04-27
+376,"I Love Trouble",Action|Comedy,11285913,2015-05-07
+377,"Imagine: John Lennon",Documentary,5272547,2014-01-16
+378,"House of Branching Love, The (Haarautuvan rakkauden talo)",Comedy|Drama,13372053,2013-08-24
+379,"Four more years (Fyra år till)",Comedy|Romance,12054014,2014-12-06
+380,"Glimpse Inside the Mind of Charles Swan III, A",Comedy,6837877,2018-06-22
+381,"Perfect Sisters",Drama|Mystery,12751960,2011-10-31
+382,"Battle of Britain, The (Why We Fight, 4)",Documentary|War,17653473,2012-05-03
+383,Backbeat,Drama|Musical,10850777,2013-04-27
+384,"Radioactive Dreams",Action|Comedy|Film-Noir|Musical|Sci-Fi,6221212,2020-05-18
+385,"Let It Snow",Comedy|Romance,12912164,2011-05-05
+386,"Vehicle 19",Thriller,22791159,2014-08-23
+387,"Hometown Legend",Drama,19351386,2016-10-04
+388,"Friday the 13th Part V: A New Beginning",Horror,6683929,2016-02-24
+389,"Il Mare (Siworae)",Fantasy|Romance|Sci-Fi,24941524,2014-03-03
+390,"Blood and Wine (Blood & Wine)",Crime|Drama|Thriller,7112175,2011-06-27
+391,"Godzilla vs. The Sea Monster (Gojira-Ebira-Mosura: Nankai no daiketto)",Action|Adventure|Fantasy|Sci-Fi,10206175,2011-08-05
+392,"Homeward Bound II: Lost in San Francisco",Adventure|Children,14442999,2012-10-26
+393,"Quatermass 2 (Enemy from Space)",Sci-Fi|Thriller,5667940,2014-08-04
+394,"Girl Shy",Action|Comedy|Drama|Romance,354855,2014-04-06
+395,"Treasure Island",Adventure,3753448,2013-03-12
+396,"Asthenic Syndrome, The (Astenicheskiy sindrom)",Drama,9823386,2014-03-29
+397,"Start the Revolution Without Me",Comedy,7670854,2012-09-04
+398,Chef,Comedy,4557611,2018-10-04
+399,"Amour fou, L'",Drama,19081286,2014-04-07
+400,"Don't Be Afraid of the Dark",Horror|Thriller,24928983,2019-12-02
+401,"Shark in Venice",Action|Horror|Thriller,25912561,2014-12-26
+402,"Adventures of Ichabod and Mr. Toad, The",Animation|Children,27063402,2016-09-06
+403,"Enter the Void",Drama,2255353,2017-11-21
+404,"Strange Magic",Animation|Children|Fantasy,30875892,2013-07-03
+405,"Tie Xi Qu: West of the Tracks (Tiexi qu)",Documentary,5143197,2014-11-03
+406,Secretary,Comedy|Drama|Romance,29599003,2012-06-21
+407,"Paris 36 (Faubourg 36)",Drama|Musical|Romance,547246,2014-07-20
+408,"Mikey and Nicky",Drama,12576598,2017-07-27
+409,"Angel on My Shoulder",Crime|Drama,10112089,2013-02-11
+410,"Toy, The (Le jouet)",Comedy,3177629,2012-08-20
+411,Humpday,Comedy,2134365,2014-03-21
+412,"Last Stop 174 (Última Parada 174) ",Crime|Drama|Thriller,22887966,2018-02-28
+413,"Artists and Models",Comedy|Musical,12996594,2014-10-12
+414,"Janky Promoters, The",Comedy|Crime|Musical,7431297,2018-05-21
+415,"Topper Returns",Comedy|Fantasy|Mystery|Romance,15940056,2017-02-05
+416,Calculator,Sci-Fi,17301486,2013-02-12
+417,"Crystal Fairy & the Magical Cactus and 2012",Adventure|Comedy,10478802,2017-10-14
+418,"The Great Northfield Minnesota Raid",Action|Western,7412406,2012-05-29
+419,"Tarzan and the Lost City",Action|Adventure,16786177,2018-02-10
+420,"Big Girls Don't Cry... They Get Even (Stepkids)",Comedy,10096018,2011-08-28
+421,"Son of the Pink Panther",Comedy,7699707,2015-09-17
+422,"Secret Things (Choses secrètes)",Drama,18623626,2017-09-06
+423,"Fifty-Fifty (a.k.a. Schizo) (Shiza)",Crime|Drama|Romance|Thriller,7594680,2017-06-02
+424,"Internecine Project, The",Action|Thriller,24698569,2016-08-10
+425,"Everyone Else (Alle Anderen)",Drama|Romance,22179325,2013-04-14
+426,"God Is the Bigger Elvis",Documentary,16361227,2014-01-07
+427,"Until the End of the World (Bis ans Ende der Welt)",Adventure|Drama|Sci-Fi,905147,2018-01-05
+428,"The Distance","(no genres listed)",3302753,2017-05-30
+429,"Dead Fish",Action|Comedy|Drama|Thriller,14654000,2015-08-16
+430,"Good Night to Die, A",Action|Comedy|Crime|Thriller,19384238,2012-07-28
+431,"Ethan Frome",Drama,31133336,2011-12-13
+432,Byzantium,Drama|Fantasy|Thriller,6927388,2017-02-24
+433,"29th Street",Comedy,14774765,2018-12-03
+434,"In the Winter Dark",Drama,7742039,2013-01-28
+435,"Highlander: The Source",Action|Adventure|Fantasy|Sci-Fi,3663680,2014-12-25
+436,"Children of Noisy Village, The (a.k.a Children of Bullerby Village, The) (Alla vi barn i Bullerbyn)",Children,3049835,2013-07-31
+437,"Cop and ½",Comedy,14770660,2016-01-12
+438,"Local Hero",Comedy,20575280,2020-03-12
+439,"Venus Boyz",Documentary,17084042,2013-08-15
+440,"Linguini Incident, The",Comedy|Crime,19123356,2012-03-06
+441,"George Washington Slept Here",Comedy,30725582,2015-04-28
+442,"Three Kings",Action|Adventure|Comedy|Drama|War,7107507,2015-11-07
+443,"The Loyal 47 Ronin",Drama,1794437,2016-05-04
+444,Unraveled,Documentary,21508781,2016-02-01
+445,"I Melt with You",Drama,24610599,2015-09-01
+446,"Fighting Sullivans, The (Sullivans, The)",Drama,21316072,2018-02-16
+447,"Walk on the Wild Side",Drama,23636892,2014-12-20
+448,"Mary Reilly",Drama|Horror|Thriller,148603,2020-01-06
+449,"Flushed Away",Animation|Comedy,475668,2012-10-07
+450,Goemon,Action|Drama,1940357,2011-10-06
+451,"Lady Killer",Comedy|Crime,21153167,2018-08-28
+452,"Kalevala - Uusi aika",Drama|Fantasy,11543151,2013-09-29
+453,"Desperadoes, The",Romance|Western,28387333,2012-11-30
+454,"Runaways, The",Drama|Musical,19745212,2011-08-21
+455,"Die Fischerin",Drama,7798250,2020-05-31
+456,"How to Make a Monster",Horror|Sci-Fi,17095577,2015-07-27
+457,"Call Her Savage",Drama,23217758,2012-03-05
+458,"Thank You, Jeeves!","(no genres listed)",21644626,2020-03-15
+459,"Frankenstein and the Monster from Hell",Horror,24231433,2013-07-29
+460,"Phone Booth",Drama|Thriller,3870383,2012-10-14
+461,Fandry,Children|Drama,4953868,2020-06-03
+462,Posse,Western,1016281,2017-04-13
+463,Angus,Comedy,26784173,2020-02-11
+464,"Mike Bassett: England Manager",Comedy,16554750,2019-05-30
+465,"Xiu Xiu: The Sent-Down Girl (Tian yu)",Drama,29593421,2012-03-23
+466,"Heartbreak Hospital",Comedy|Thriller,2236560,2016-11-06
+467,"Ballet Shoes",Children|Drama,10994462,2012-01-24
+468,"Something Wicked This Way Comes",Children|Drama|Fantasy|Mystery|Thriller,1395490,2017-07-02
+469,"Day and Night (Le jour et la nuit)",Drama,370804,2013-12-21
+470,"Come September",Comedy,15626672,2019-08-21
+471,"Kal Ho Naa Ho",Comedy|Drama|Romance,747338,2016-07-02
+472,"Erin Brockovich",Drama,24308088,2017-06-06
+473,"Wages of Fear, The (Salaire de la peur, Le)",Action|Adventure|Drama|Thriller,1044810,2011-10-05
+474,"Running Scared",Action|Comedy,1235352,2015-08-22
+475,"Thy Womb (Sinapupunan)",Drama,864935,2013-07-30
+476,"Way We Were, The",Drama|Romance,27276303,2019-02-16
+477,Transfer,Drama|Sci-Fi,15315702,2016-08-29
+478,"River Murders, The",Thriller,29639359,2015-10-01
+479,"Through the Forest",Drama,9254983,2018-07-11
+480,"Construction, The (En construcción)",Documentary,18644107,2012-06-01
+481,"Wadd: The Life & Times of John C. Holmes",Documentary,15947935,2017-07-24
+482,"Heroes for Sale",Drama,29628316,2012-01-07
+483,"Zatoichi Meets the One-Armed Swordsman (Shin zatô Ichi: Yabure! Tôjin-ken) (Zatôichi 22)",Action|Adventure|Drama,17240816,2015-07-26
+484,"We and the I, The",Drama,22040835,2020-02-28
+485,"Blue Crush",Adventure|Drama|Romance,42610,2013-02-15
+486,"Fresh Bait (L'appât) ",Crime|Drama,564367,2013-01-20
+487,"Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng)",Action|Adventure|Comedy|Drama,8610057,2012-09-07
+488,"Valley of Decision, The",Drama,2460165,2011-07-02
+489,Pronto,Comedy|Crime|Thriller,10462874,2014-09-12
+490,Broadway,Drama|Musical,21301249,2016-11-07
+491,"Bandits (Bandidos)",Action|Adventure|War,13436687,2017-07-08
+492,"Puffy Chair, The",Drama|Romance,8068993,2011-07-15
+493,"Crow: Salvation, The",Action|Horror,6698566,2019-08-15
+494,"Keep the Lights On",Drama,6517498,2013-02-02
+495,"Life with Father",Comedy,18824404,2017-08-10
+496,"Knuckle ",Documentary,567530,2015-02-10
+497,Bug,Horror|Mystery|Sci-Fi,558802,2013-11-22
+498,"Home on the Range",Animation|Children|Comedy|Musical|Western,9744264,2016-07-27
+499,"3-Iron (Bin-jip)",Drama|Romance,24219815,2014-06-25
+500,"Legend of Hercules, The",Action|Adventure,19964947,2017-06-04
+501,"Manson Family, The",Crime|Drama|Horror,11938241,2011-01-13
+502,"Matriarch, The (Lieksa!)",Comedy|Drama|Romance,13092986,2011-05-19
+503,"Life of Jesus, The (La vie de Jésus)",Drama,14604605,2014-06-14
+504,"Delicate Delinquent, The",Comedy,21728988,2013-08-13
+505,"Brass Target",Action|Drama|Mystery|Thriller,22663867,2017-06-17
+506,Revanche,Crime|Drama|Romance,6960233,2011-12-12
+507,"Bikini Summer",Comedy,23688967,2017-05-15
+508,Patrick,Horror|Sci-Fi|Thriller,11836084,2012-09-05
+509,"Battle of Algiers, The (La battaglia di Algeri)",Drama|War,18136004,2016-11-20
+510,"Stranger, The",Drama|Film-Noir|Thriller,21219262,2017-01-26
+511,"Cabaret Balkan (Bure Baruta)",Drama,30020793,2017-06-25
+512,"Man of Straw (Untertan, Der)",Comedy|Drama,29222170,2011-03-12
+513,"Class Trip, The (La classe de neige)",Drama|Mystery,13411605,2014-04-21
+514,"Divorce, Le",Comedy|Drama|Romance,19234489,2012-10-29
+515,"My Sassy Girl (Yeopgijeogin geunyeo)",Comedy|Romance,24078822,2012-05-17
+516,"X Games 3D: The Movie",Documentary,14214172,2014-04-22
+517,"My Fake  Fiance",Comedy|Romance,11364006,2011-11-15
+518,"Amazing Panda Adventure, The",Adventure|Children,18486481,2020-05-03
+519,"Lost in America",Comedy,14820536,2012-01-17
+520,"Condition Red (Beyond the Law)",Action|Drama|Thriller,28294441,2018-11-12
+521,Vacancy,Horror|Thriller,7837754,2016-09-06
+522,"Love Happy",Comedy,11352408,2015-11-19
+523,Dhoom,Action|Crime|Musical|Romance,7428655,2018-01-31
+524,"NeverEnding Story II: The Next Chapter, The",Adventure|Children|Fantasy,1236912,2017-01-08
+525,"Star Wars: Episode II - Attack of the Clones",Action|Adventure|Sci-Fi|IMAX,20157925,2015-01-31
+526,"My Sister Eileen",Comedy|Musical|Romance,5071323,2019-05-12
+527,"I Am Michael",Drama,17535629,2013-02-26
+528,"Girl 27",Documentary,12022343,2020-04-29
+529,"Bounty, The",Adventure|Drama,19847826,2016-04-20
+530,"10,000 BC",Adventure|Romance|Thriller,18266512,2019-07-23
+531,"Perfect Fake, A",Documentary,365860,2018-07-31
+532,"Bird of Prey",Action,24289842,2011-09-07
+533,"Year of the Gun",Action|Romance|Thriller,3874877,2014-07-17
+534,"Mondo Topless",Documentary,19311253,2018-07-12
+535,"Time Walker (a.k.a. Being From Another Planet)",Horror|Sci-Fi,8214033,2015-06-16
+536,"Fast Food Nation",Drama,15530012,2015-08-24
+537,"Come to the Stable",Drama,19128628,2016-12-19
+538,"Land Before Time, The",Adventure|Animation|Children|Fantasy,21310597,2017-03-13
+539,"Killing Us Softly 3",Documentary,1247176,2011-04-17
+540,"Small Town Gay Bar",Documentary,6965700,2016-06-05
+541,Delbaran,Drama,27247844,2019-04-01
+542,Trances,Documentary|Musical,9908321,2016-04-27
+543,Kagerô-za,Fantasy|Romance|Thriller,30064990,2011-09-22
+544,"Baby, the Rain Must Fall",Drama,18388561,2012-11-27
+545,Sightseers,Comedy,27814789,2012-02-22
+546,"Love Bug, The",Children|Comedy,4895523,2014-03-02
+547,"Ginger Snaps Back: The Beginning",Fantasy|Horror,20573752,2018-07-30
+548,"The Day That Lasted 21 Years",Documentary,24607005,2016-12-04
+549,"I Love Sarah Jane",Horror|Romance,5555324,2017-05-20
+550,"Story of Dr. Wassell, The",Action|Adventure|Drama|Romance|War,22850919,2019-11-03
+551,"Cheech & Chong's Next Movie",Comedy,5202541,2013-01-03
+552,Wrecked,Thriller,13328128,2020-06-17
+553,"Meatballs Part II",Comedy,11964027,2019-08-19
+554,"Darby O'Gill and the Little People",Adventure|Children|Fantasy,25384426,2016-07-25
+555,Superbad,Comedy,25242336,2011-09-04
+556,"Is Paris Burning? (Paris brûle-t-il?)",Drama|War,14690675,2015-05-17
+557,"America Before Columbus",Documentary,15688059,2017-02-14
+558,"Grave, The",Comedy|Horror|Thriller,29546457,2013-02-02
+559,"Woman in Love (Rubbeldiekatz)",Comedy,23297762,2018-06-05
+560,"Treed Murray",Drama,6999411,2017-08-20
+561,"Will Ferrell: You're Welcome America - A Final Night with George W Bush",Comedy,17410339,2015-06-11
+562,"Calcium Kid, The",Comedy,19324425,2014-10-25
+563,"Demonic Toys",Comedy|Fantasy|Horror,1492126,2013-10-15
+564,"ChubbChubbs!, The",Animation|Comedy|Sci-Fi,23846022,2013-05-08
+565,Grace,Horror|Thriller,20061195,2016-01-11
+566,"Tag: The Assassination Game (a.k.a. Everybody Gets It in the End)",Action|Thriller,27002179,2011-01-13
+567,Daybreak,Action|Drama|Romance|Sci-Fi,18016510,2017-11-01
+568,"Bye Bye Braverman",Comedy|Drama,17771559,2012-07-29
+569,Zelig,Comedy,569395,2011-07-30
+570,"Collision Course",Action|Comedy|Thriller,18968287,2015-09-24
+571,Georg,Drama|Musical,3043583,2017-01-24
+572,"Känd från TV",Comedy,26203761,2018-07-28
+573,"Skies Above the Landscape (Nebo iznad krajolika)",Comedy,5508124,2016-04-29
+574,Spider,Drama|Mystery,16988142,2016-05-29
+575,"Midnight Run",Action|Comedy|Crime|Thriller,3060071,2013-10-13
+576,"Hunger, The",Horror,17971985,2011-11-09
+577,"Fat Man and Little Boy",Drama,5165040,2020-07-15
+578,"Jerky Boys, The",Comedy,17323418,2019-03-27
+579,"Beyond Therapy",Comedy,14997410,2014-04-26
+580,"Goodbye, Mr. Chips",Drama|Musical|Romance,31007606,2018-02-09
+581,"Pistol Whipped",Action|Drama,25307408,2019-06-14
+582,"Not Forgotten",Thriller,7929623,2013-09-30
+583,"Ed and His Dead Mother",Comedy|Horror,1230596,2018-02-11
+584,"Mother (Madeo)",Crime|Drama|Mystery|Thriller,15765623,2012-07-17
+585,"When Strangers Appear",Action|Mystery|Thriller,13469001,2013-08-29
+586,"Rites of May, The (Itim) ",Drama|Horror|Thriller,8196142,2020-04-16
+587,"Bitter Tears of Petra von Kant, The (bitteren Tränen der Petra von Kant, Die)",Drama,9959079,2013-04-23
+588,"Johnny 100 Pesos (Johnny cien pesos)",Action|Drama,1367214,2013-05-26
+589,"The Raid",Action|Drama|War,16548361,2014-06-13
+590,"La discrète",Drama|Romance,22977962,2017-11-09
+591,I-See-You.Com,Comedy,13674653,2013-07-27
+592,"Lacemaker, The (Dentellière, La)",Drama|Romance,12322686,2018-08-22
+593,"Secret Life of Walter Mitty, The",Comedy|Romance|Thriller,13315952,2018-01-24
+594,"Sandra of a Thousand Delights (Vaghe stelle dell'Orsa...)",Drama,26620202,2017-05-21
+595,"Chak De India!",Drama,18524384,2018-10-24
+596,"Citizen X",Crime|Drama|Thriller,14517632,2012-04-22
+597,"There's Something Wrong with Aunt Diane",Documentary,19017861,2014-03-29
+598,"The Righteous Thief",Adventure,22631842,2013-01-30
+599,"Time and Tide (Seunlau Ngaklau)",Action|Crime|Thriller,10314199,2011-08-02
+600,"The World Forgotten",Adventure|Documentary,16775165,2016-05-18
+601,"My Kidnapper",Documentary,17618983,2018-02-10
+602,"Dangerous Liaisons",Drama|Romance,133019,2020-03-14
+603,"American Gun",Drama,12659488,2015-08-11
+604,"Darkest Night",Drama|Horror,17194442,2019-11-28
+605,"Blood Money",Action|Thriller,29227362,2016-12-29
+606,"Speed Zone! (a.k.a. Cannonball Run III)",Action|Comedy,30301654,2018-05-08
+607,"Return to the 36th Chamber (Shao Lin da peng da shi) ",Action|Comedy,24296928,2015-09-24
+608,"Muppet Christmas: Letters to Santa, A",Children|Comedy,4117000,2015-07-05
+609,"Spirited Away (Sen to Chihiro no kamikakushi)",Adventure|Animation|Fantasy,17572833,2014-11-17
+610,"Bewitched (Alter Ego)",Crime|Drama|Film-Noir|Thriller,16675404,2013-08-13
+611,"Small Town of Anara (Qalaqi Anara)",Comedy,17774787,2019-03-20
+612,"Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut)",Adventure|Drama,15987702,2012-06-30
+613,"Late Marriage (Hatuna Meuheret)",Comedy|Drama|Romance,25051248,2020-03-19
+614,"Saint in London, The",Action|Comedy|Crime|Drama|Mystery,24079487,2016-02-19
+615,"Stephen Tobolowsky's Birthday Party",Comedy|Documentary|Drama,13060050,2016-10-21
+616,"SOS - en segelsällskapsresa",Comedy,23709290,2011-09-04
+617,"Blue State",Comedy,21436913,2017-01-14
+618,"Pillow Talk",Comedy|Musical|Romance,21970165,2012-11-21
+619,Sabrina,Comedy|Romance,4589583,2015-06-28
+620,"Roman Spring of Mrs. Stone, The",Drama|Romance,21944672,2018-10-08
+621,"This Movie Is Broken",Drama|Romance,29963527,2017-11-18
+622,"Last Trapper, The (Le dernier trappeur)",Adventure|Documentary,20955874,2015-09-09
+623,Valmont,Drama|Romance,13830015,2015-01-07
+624,"Fantasy Mission Force (Mi ni te gong dui)",Action|Adventure|Comedy|Crime|Thriller|War,11089674,2020-06-23
+625,Bully,Documentary,4185518,2017-11-15
+626,"Milk and Honey",Drama,29602045,2017-03-02
+627,Alive,Drama,5193605,2015-08-02
+628,"Burnt by the Sun (Utomlyonnye solntsem)",Drama,2696175,2013-02-10
+629,"Stepfather, The",Horror|Thriller,24739810,2015-10-08
+630,"You Were Never Lovelier",Comedy|Musical|Romance,28242462,2011-07-23
+631,"Belizaire the Cajun",Drama,8089497,2015-08-10
+632,"Babes in Arms",Comedy|Musical,3071122,2017-07-26
+633,"Philadelphia Experiment, The",Adventure|Drama|Sci-Fi,23972020,2020-03-21
+634,"Crawling Eye, The (a.k.a. Trollenberg Terror, The)",Horror|Sci-Fi,3441442,2014-10-11
+635,"This Means War",Action|Comedy|Romance,22455462,2018-08-24
+636,Blackthorn,Western,22388560,2011-07-29
+637,"French Connection II",Action|Crime|Drama|Thriller,15138086,2013-11-05
+638,"Conspiracy of Torture, The (Beatrice Cenci)",Drama,8007773,2019-02-08
+639,"Abyss, The",Action|Adventure|Sci-Fi|Thriller,28382563,2017-05-01
+640,Crashing,Drama,23661492,2020-06-07
+641,"Blackout, The",Drama,726704,2020-06-13
+642,"Who Killed Vincent Chin?",Crime|Documentary,21185570,2018-12-31
+643,"Ruby in Paradise",Drama,26837353,2016-12-03
+644,"D.L. Hughley: Reset",Comedy,21716561,2018-08-30
+645,"Ringu 2 (Ring 2)",Horror|Mystery,4213081,2017-09-14
+646,Performance,Crime|Drama|Thriller,23753990,2017-08-24
+647,"House of Small Cubes, The (Tsumiki no ie)",Animation|Drama,25254137,2020-01-15
+648,"Last Warrior, The (Last Patrol, The)",Action|Drama,22548212,2019-04-28
+649,Autohystoria,"(no genres listed)",13300291,2014-11-26
+650,"Carson City",Action|Romance|Western,20275109,2015-11-02
+651,"Happy Time, The",Comedy,16897209,2013-10-29
+652,"Make Believe",Documentary,22029558,2018-02-12
+653,"Star Trek III: The Search for Spock",Action|Adventure|Sci-Fi,2226972,2019-12-05
+654,"Dim Sum: A Little Bit of Heart",Comedy,7883853,2019-07-12
+655,"Alice in Wonderland",Adventure|Comedy|Fantasy,3123156,2012-06-19
+656,"Flight of the Navigator",Adventure|Children|Sci-Fi,14555162,2012-05-16
+657,"Stand by Me",Adventure|Drama,13346056,2016-12-07
+658,"Just the Ticket",Comedy|Romance,1532431,2019-03-27
+659,"We Are from the Future (My iz budushchego)",Action|Drama|Fantasy,1775212,2016-06-18
+660,"Tie Me Up! Tie Me Down! (¡Átame!)",Crime|Drama|Romance,23517904,2014-09-20
+661,"Last Ride",Drama,9374066,2011-03-21
+662,"Uncle Marin, the Billionaire (Nea Marin miliardar) (Uncle Martin, the Multimillionaire)",Comedy,8663939,2012-06-19
+663,"Prince and the Pauper, The",Adventure|Drama,1802953,2018-11-06
+664,"Scatter My Ashes at Bergdorf's",Documentary,8392967,2016-12-28
+665,"Diamond Dogs",Action|Adventure,10421968,2019-07-31
+666,"Other Side of Sunday, The (Søndagsengler)",Comedy|Drama,4241396,2016-01-05
+667,"Just a Sigh",Drama|Romance,6727210,2018-02-10
+668,"The Devil Thumbs a Ride",Drama|Film-Noir,19219756,2012-09-11
+669,"Hollow Man",Horror|Sci-Fi|Thriller,19760172,2018-03-25
+670,"Ethan Mao",Drama|Thriller,8672434,2017-08-12
+671,Feed,Action|Crime|Mystery|Thriller,11197512,2015-12-06
+672,"Gun Crazy (a.k.a. Deadly Is the Female)",Crime|Drama|Film-Noir,21394095,2011-06-03
+673,Somm,Documentary,4129545,2012-10-29
+674,"Imagine That",Comedy|Drama|Fantasy,24804677,2019-04-24
+675,"Knockin' on Heaven's Door",Action|Comedy|Crime|Drama,2661527,2019-11-23
+676,"New York in the 50's",Documentary,12867659,2014-03-10
+677,[REC]²,Horror|Thriller,26257199,2015-05-19
+678,Bananaz,Documentary,14328108,2013-05-14
+679,"One Nine Nine Four",Documentary,4623448,2013-06-15
+680,"Union Pacific",Drama|Western,22191587,2017-04-29
+681,"Philadelphia Experiment II",Action|Adventure|Sci-Fi,3721905,2013-03-26
+682,"Tooth Fairy 2",Children|Comedy,27565139,2011-11-11
+683,"Return to Oz",Adventure|Children|Fantasy,25269684,2011-04-12
+684,"Only Lovers Left Alive",Drama|Horror|Romance,4924297,2020-05-22
+685,"Diary of a Chambermaid, The",Drama|Romance,29260757,2017-09-09
+686,Informant,Documentary,11771656,2012-05-27
+687,"A-Team, The",Action|Comedy|Thriller,28223697,2018-12-10
+688,"Bobo, The",Comedy,25068766,2014-05-17
+689,"Lie, The",Drama,1911146,2019-10-06
+690,"Phantom Pain",Drama,30344886,2020-01-02
+691,Infestation,Action|Comedy|Sci-Fi,23159890,2014-01-19
+692,"P.S. Your Cat is Dead",Comedy,18692520,2020-03-26
+693,"Shadows Over Chinatown",Comedy|Crime|Mystery|Thriller,16718990,2016-07-02
+694,"Day After Tomorrow, The",Action|Adventure|Drama|Sci-Fi|Thriller,19758659,2016-10-16
+695,"Death in Brunswick",Comedy,27279888,2017-02-14
+696,"Objective, The",Horror|Sci-Fi|Thriller|War,28869142,2020-05-04
+697,"Awful Truth, The",Comedy|Romance,29868599,2013-01-27
+698,"Horror Business",Documentary,26203257,2015-02-16
+699,"Misérables, Les",Drama|War,1597353,2017-01-14
+700,"Someone's Watching Me!",Horror|Mystery|Thriller,17419033,2016-10-04
+701,"Step Up Revolution",Musical,2326198,2013-08-24
+702,"Housekeeper, The (femme de ménage, Une)",Comedy|Drama|Romance,13321864,2011-04-16
+703,"Paralyzing Fear: The Story of Polio in America, A",Documentary,14551224,2011-12-26
+704,"RocketMan (a.k.a. Rocket Man)",Children|Comedy|Romance|Sci-Fi,28895248,2017-05-22
+705,"Il Capitano",Drama,7585532,2012-12-25
+706,Whiteboyz,Comedy|Drama,24798093,2016-03-16
+707,"Japanese Summer: Double Suicide (Muri shinjû: Nihon no natsu)",Crime|Drama,23532798,2019-07-15
+708,"Autumn Afternoon, An (Sanma no aji)",Drama,8866278,2016-06-04
+709,"Black Room, The",Crime|Horror|Thriller,20667700,2019-03-24
+710,"Sweet Evil (L'enfance du mal)",Drama,6652257,2019-12-09
+711,Backdraft,Action|Drama,12540397,2018-09-23
+712,"Surviving the Game",Action|Adventure|Thriller,28022232,2019-03-02
+713,"Delicate Art of Parking, The",Comedy,27224918,2014-12-26
+714,"The Man From The Alamo",Western,5569305,2016-01-19
+715,"Further Gesture, A",Drama,15326255,2014-07-17
+716,"Sex Is Comedy",Comedy|Drama|Romance,25148907,2013-07-16
+717,"Zatoichi on the Road (Zatôichi kenka-tabi) (Zatôichi 5)",Action|Drama,31057298,2011-07-16
+718,"Huey P. Newton Story, A",Documentary,6965643,2017-04-04
+719,"Final Option, The (Who Dares Wins)",Action|War,22230861,2017-12-31
+720,Bullitt,Action|Crime|Drama|Thriller,15994624,2011-10-03
+721,"Star Trek: First Contact",Action|Adventure|Sci-Fi|Thriller,12618378,2014-03-19
+722,"Ref, The",Comedy,30956619,2019-04-07
+723,Mahogany,Drama|Romance,17896767,2012-05-27
+724,"Night Visitor, The",Crime|Thriller,10055514,2019-04-22
+725,Species,Horror|Sci-Fi,2743685,2018-11-13
+726,Trio,Drama|Romance,2233994,2017-04-01
+727,"Hidden, The",Action|Horror|Sci-Fi,14843273,2020-07-15
+728,"World According to Garp, The",Comedy|Drama|Romance,705303,2015-04-30
+729,Occupant,Thriller,24593671,2013-12-11
+730,"Three Steps Above Heaven (Tres metros sobre el cielo)",Drama|Romance,21239566,2012-12-05
+731,"Nature Calls",Comedy,1225503,2015-05-27
+732,"Good Bye (Bé omid é didar)",Drama,5981867,2012-07-19
+733,"House on 92nd Street, The",Drama|Film-Noir,18536499,2012-09-10
+734,"Temple Grandin",Drama,4744971,2011-05-16
+735,"The Bloody Olive",Comedy|Crime|Film-Noir,24442635,2018-03-14
+736,"Creeping Terror, The (Crawling Monster, The)",Horror|Sci-Fi,24822975,2011-02-22
+737,"You Belong to Me",Comedy|Romance,4398604,2019-09-11
+738,"Zatoichi's Conspiracy (Shin Zatôichi monogatari: Kasama no chimatsuri) (Zatôichi 25)",Action|Drama,22232410,2015-08-25
+739,"Imagine That",Comedy|Drama|Fantasy,17906821,2013-01-28
+740,"Fahrenheit 9/11",Documentary,12090856,2019-07-15
+741,"New Gladiators (I guerrieri dell'anno 2072)",Action|Drama|Mystery,6639913,2015-09-25
+742,"Coach Carter",Drama,24620217,2016-06-21
+743,"Chico & Rita",Animation|Musical|Romance,24646695,2016-07-24
+744,"Oh, God! You Devil",Comedy,10123886,2012-10-11
+745,"Yeti: The Giant of the 20th Century",Adventure|Fantasy,30457194,2014-10-18
+746,Unconditional,Drama,24180518,2011-10-13
+747,Pressed,Action|Crime|Drama|Thriller,13644278,2011-02-01
+748,"Standard Operating Procedure",Crime|Documentary|War,19423654,2020-06-09
+749,"Dream House",Drama|Mystery|Thriller,29586389,2014-10-05
+750,"Rough Riders",Drama,16986242,2013-04-26
+751,"Ghost Dad",Comedy|Fantasy,3415800,2019-11-18
+752,"Braddock: Missing in Action III",Action|War,18750847,2017-05-08
+753,"Colpo in canna",Action,441215,2015-12-31
+754,"Women, The",Comedy|Drama,22138593,2015-02-01
+755,"Halloween: Resurrection (Halloween 8)",Horror|Thriller,14422494,2019-10-31
+756,"Jackal, The",Action|Thriller,9354141,2019-05-15
+757,"Somewhere in the Night",Crime|Drama|Film-Noir,25368200,2012-06-13
+758,"No One Writes to the Colonel (El coronel no tiene quien le escriba)",Drama,14705064,2017-03-23
+759,"Playmobil: The Secret of Pirate Island",Animation|Children,28755133,2019-01-15
+760,"Vacuum-Cleaner Salesmen (Pölynimurikauppiaat)",Documentary,16921219,2016-05-15
+761,"Narrow Margin, The",Crime|Drama|Film-Noir,13819383,2017-07-19
+762,Quill,Drama,27021690,2019-05-30
+763,"Wake in Providence, A",Comedy,1100679,2014-04-26
+764,"Leap of Faith",Comedy|Drama,20327627,2012-04-28
+765,"7 Dollars on the Red (Sette dollari sul rosso)",Western,14049593,2014-07-08
+766,"Alexandria... Why? (Iskanderija... lih?)",Drama,15066131,2013-08-05
+767,"Swarm, The",Action|Horror|Sci-Fi,23509346,2015-08-30
+768,"Men Cry Bullets",Comedy|Drama,11409701,2015-02-26
+769,Pocahontas,Animation|Children|Drama|Musical|Romance,19118126,2019-12-05
+770,Kumaré,Documentary,7012629,2018-12-09
+771,"Last Laugh, The (Letzte Mann, Der)",Drama,18148952,2015-05-13
+772,"Mega Shark vs. Giant Octopus",Action|Horror,20388185,2012-05-18
+773,"Phantom of the Opera, The",Drama|Horror|Musical,4074421,2013-09-02
+774,"Prince of Egypt, The",Animation|Musical,21572374,2013-05-07
+775,"Love's Labour's Lost",Comedy|Romance,12095902,2012-06-16
+776,"Desert Heat (Inferno)",Action,30852029,2014-10-05
+777,"Ain't in It for My Health: A Film About Levon Helm",Documentary,25881636,2016-11-23
+778,"Thing Called Love, The",Comedy|Drama|Romance,14350744,2013-12-26
+779,"009 Re: Cyborg",Action|Animation|Sci-Fi,23650855,2018-12-15
+780,Trance,Crime|Thriller,24308283,2015-08-18
+781,"Millennium Mambo (Qian xi man po)",Drama|Romance,4115358,2019-03-10
+782,"Generation War",Drama|War,16024498,2016-04-13
+783,"Captive, The (Prisonnière, La)",Animation|Fantasy,19712687,2011-07-28
+784,"Key of Life (Kagi-dorobô no mesoddo)",Comedy|Crime|Romance,16129308,2013-05-31
+785,1987,Comedy|Drama|Romance,13274537,2012-05-02
+786,"Man Apart, A",Action|Crime|Drama|Thriller,19109475,2018-04-16
+787,"Hen, his wife","(no genres listed)",9913845,2016-06-22
+788,Glitter,Drama|Musical|Romance,28246995,2015-08-02
+789,"Death of a Salesman",Drama,22276597,2019-10-06
+790,"Samson and Delilah",Drama,9669822,2016-09-10
+791,"Rack, The",Drama|War,24135089,2014-03-19
+792,Steak,Comedy,14058620,2016-05-10
+793,"Those Magnificent Men in Their Flying Machines",Action|Adventure|Comedy,28064185,2017-08-30
+794,"Elephant Man, The",Drama,30565982,2016-01-08
+795,"Being Elmo: A Puppeteer's Journey",Documentary,11245381,2015-07-10
+796,"Everybody Street",Documentary,13987877,2019-11-13
+797,Demoted,Comedy,24176386,2012-02-19
+798,"The Stranger's Return",Comedy|Drama,17829431,2020-07-07
+799,"Lone Ranger and the Lost City of Gold, The",Adventure|Mystery|Western,919514,2017-03-30
+800,"Trip, The",Comedy|Drama|Romance,27230572,2019-01-08
+801,"Larry the Cable Guy: Health Inspector",Comedy,26569732,2016-12-31
+802,"Education of Charlie Banks, The",Drama,30637922,2011-06-03
+803,"Mildred Pierce",Drama|Film-Noir,9406267,2016-06-27
+804,"Adventures of Arsène Lupin, The (Aventures d'Arsène Lupin, Les)",Crime|Mystery,6108714,2011-07-01
+805,"Grand Dukes, The (Les grands ducs)",Comedy,4695055,2017-06-11
+806,"Sacco and Vanzetti (Sacco e Vanzetti)",Drama,22079836,2013-01-14
+807,"Cycling with Moliere (Alceste à bicyclette)",Comedy|Drama,22475538,2013-02-01
+808,Radio,Drama,17984944,2016-10-05
+809,Jacknife,Drama,23233644,2017-10-19
+810,"Goofy Movies Number One",Comedy,17572949,2015-02-04
+811,Kabluey,Comedy|Drama,28878560,2012-08-04
+812,"Loaded Weapon 1 (National Lampoon's Loaded Weapon 1)",Action|Comedy,673596,2015-09-01
+813,"Ghosts of Cité Soleil",Action|Documentary|Drama|Romance|War,5914026,2016-08-22
+814,"7th Floor",Mystery|Thriller,22579559,2018-07-16
+815,"When the Bough Breaks",Drama|Thriller,6010548,2019-08-16
+816,"Don Juan",Adventure|Drama|Romance,31047267,2017-09-16
+817,"On the Double ",Comedy|War,26341672,2014-08-06
+818,"Cargo 200 (Gruz 200)",Drama,5769771,2019-02-19
+819,"Street Fight",Documentary,15019387,2014-01-10
+820,"Antwone Fisher",Drama,14003302,2018-10-11
+821,"Ghosts of Mississippi",Drama,5172112,2019-10-21
+822,"Pressure Point ",Drama,19409417,2017-09-28
+823,"Wuthering Heights",Drama,5711586,2014-05-22
+824,Illegal,Crime|Drama|Film-Noir,21666352,2013-03-01
+825,"Mad Max",Action|Adventure|Sci-Fi,15279480,2016-02-07
+826,"Misérables, Les",Drama,30988393,2011-08-02
+827,Grindhouse,Action|Crime|Horror|Sci-Fi|Thriller,27481281,2018-03-29
+828,Waterworld,Action|Adventure|Sci-Fi,8172098,2012-04-12
+829,"Past Midnight",Horror|Thriller,12354659,2015-12-07
+830,"Clone (Womb)",Drama|Romance|Sci-Fi,4476570,2020-06-15
+831,"Killing Room, The",Drama|Mystery|Thriller,5526159,2017-09-06
+832,"Godzilla vs. Gigan (Chikyû kogeki meirei: Gojira tai Gaigan)",Action|Adventure|Horror,13244902,2012-10-25
+833,"Booty Call",Comedy|Romance,27001837,2011-01-28
+834,Monsters,Drama|Sci-Fi,15131618,2011-09-19
+835,"Master of the House (Du skal ære din hustru) (Thou Shalt Honour Thy Wife)",Drama,11291262,2018-04-08
+836,"Man in the Chair",Comedy|Drama,22171169,2015-09-05
+837,"Ali: Fear Eats the Soul (Angst essen Seele auf)",Drama|Romance,30268828,2011-07-07
+838,Intervista,Comedy|Drama,1698690,2016-12-16
+839,"The War",Documentary|War,9822253,2017-11-11
+840,"Children of a Lesser God",Drama,7396358,2017-03-10
+841,"Arthur and the Revenge of Maltazard (Arthur et la vengeance de Maltazard)",Animation|Children|Fantasy,26499009,2015-11-22
+842,"Valdez Is Coming",Western,9764198,2019-06-19
+843,"Louis Cyr: The Strongest Man in the World",Drama,18227484,2013-06-15
+844,"Super Rich: The Greed Game",Documentary,29415002,2020-07-21
+845,"Beck - Öga för öga","(no genres listed)",29820542,2019-10-13
+846,"Bittersweet Life, A (Dalkomhan insaeng)",Action|Crime|Drama,9634545,2016-11-27
+847,Motocrossed,Action|Children|Comedy|Romance,5570820,2014-08-03
+848,"Moving Out",Drama,5438144,2011-11-29
+849,"Gentleman's Game, A",Drama,27447619,2011-08-12
+850,"Suicide Killers",Documentary,19244252,2012-06-27
+851,"Torch Song",Drama|Romance,17532403,2020-06-16
+852,"Mulberry Street",Action|Horror|Thriller,24546485,2017-01-27
+853,"Ebola Syndrome, The (Yi boh laai beng duk)",Comedy|Horror,7633107,2016-06-22
+854,"Assassination (Ansatsu) (Assassination, The) (Assassin, The)",Action|Drama,6162731,2012-10-31
+855,Bereavement,Horror,13874203,2012-07-09
+856,"21 Up",Documentary,16884730,2020-07-17
+857,"Exterminating Angels, The (anges exterminateurs, Les)",Drama|Fantasy|Romance,26159393,2017-03-19
+858,"Restless Natives",Adventure|Comedy|Drama,9224516,2012-03-30
+859,"German Doctor, The (Wakolda)",Drama|Thriller,20462607,2020-07-22
+860,"Ballistic: Ecks vs. Sever",Action|Thriller,11865472,2016-02-09
+861,"Reckoning, The",Crime|Drama,26074640,2015-09-21
+862,"Pandora's Box (Büchse der Pandora, Die)",Drama,5654389,2011-06-25
+863,"Bobby Fischer Against the World",Documentary,25407365,2017-12-18
+864,"Other Side of the Bed, The (Otro lado de la cama, El)",Comedy|Drama|Musical|Romance,31123279,2011-09-03
+865,"For Sale (À Vendre)",Drama,4210009,2013-09-04
+866,"3 Idiots",Comedy|Drama|Romance,6004472,2014-05-31
+867,"Cross My Heart",Comedy|Romance,13240228,2020-06-14
+868,"Eden Lake",Horror|Thriller,22855747,2019-05-27
+869,"Fifth Cord, The (Giornata nera per l'ariete)",Mystery|Thriller,29208795,2014-01-22
+870,"Alien Abduction",Horror|Mystery|Sci-Fi,1373254,2015-02-26
+871,"Music Man, The",Children|Comedy|Musical|Romance,28783633,2018-12-19
+872,"In the Folds of the Flesh",Drama|Horror|Thriller,26048867,2019-02-06
+873,"Northern Soul",Drama,2981836,2016-01-20
+874,"Juror, The",Drama|Thriller,26266879,2018-04-25
+875,Medora,Documentary,16411686,2014-01-02
+876,"Darker Than Night",Horror|Thriller,12264461,2019-06-16
+877,"Four Rooms",Comedy,10769936,2015-05-15
+878,"Nancy Drew and the Hidden Staircase",Comedy|Crime|Mystery,23131778,2015-12-26
+879,"When Marnie Was There",Animation|Drama,6979335,2018-06-23
+880,(A)sexual,Comedy|Documentary|Drama,6686551,2015-04-08
+881,"Brass Target",Action|Drama|Mystery|Thriller,20819729,2017-08-29
+882,"Mother (Mat)",Drama,29891737,2011-03-28
+883,"Mulholland Drive",Crime|Drama|Film-Noir|Mystery|Thriller,14358437,2015-03-19
+884,"Idiot, The (Hakuchi)",Crime|Drama|Romance,1036570,2014-08-28
+885,"Circle, The (Dayereh)",Drama,17502448,2018-10-06
+886,"What If",Comedy|Drama|Romance,27783356,2014-11-06
+887,"Study in Choreography for Camera, A","(no genres listed)",30919504,2020-03-06
+888,"Three Guys Named Mike",Comedy|Romance,22108480,2019-01-17
+889,"Ingeborg Holm",Drama,22624075,2015-08-25
+890,Overlord,Drama|War,19354937,2013-10-18
+891,"Let's Kill Ward's Wife",Comedy,12324146,2015-10-24
+892,Crackers,Action|Comedy|Crime|Thriller,10374274,2015-07-09
+893,"Journey to the Beginning of Time",Adventure|Children|Fantasy,30240907,2012-01-04
+894,Applause,Drama|Musical,21186750,2015-11-14
+895,"Law of Enclosures, The",Drama,29030731,2016-04-14
+896,Strip-tease,Drama,5669776,2014-07-21
+897,"Cold Mountain",Drama|Romance|War,18234168,2018-03-24
+898,"Miss Julie",Drama,30378497,2012-03-07
+899,"Call Northside 777",Crime|Drama|Film-Noir,6670151,2016-11-17
+900,"Four Days in July",Comedy|Drama,29417943,2014-02-07
+901,"Road, The",Crime|Drama|Horror|Thriller,20005939,2016-01-07
+902,"Another Nine & a Half Weeks (Love in Paris) (9 1/2 Weeks II) (Another 9 1/2 Weeks)",Drama|Romance,3011782,2018-06-09
+903,"Jungle Fever",Drama|Romance,19801057,2018-05-12
+904,"Human Stain, The",Drama|Romance|Thriller,15309014,2015-01-22
+905,"Crippled Avengers (Can que) (Return of the 5 Deadly Venoms)",Action|Adventure,7527213,2015-07-07
+906,"Disney Sing Along Songs: Under the Sea",Animation|Children|Musical,15730526,2016-09-16
+907,"Glumov's Diary (Dnevnik Glumova)","(no genres listed)",17793463,2019-07-27
+908,"All the Right Moves",Drama|Romance,2229688,2011-02-04
+909,"Stranger in Me, The (Das Fremde in mir)",Drama,26222326,2016-08-22
+910,"My Super Ex-Girlfriend",Comedy|Fantasy|Romance,16583977,2017-03-23
+911,"Jonathan Rosenbaum, Present",Documentary,23000308,2011-01-05
+912,"It's the Easter Beagle, Charlie Brown!",Animation|Children|Comedy,26164852,2014-01-20
+913,"World War II: When Lions Roared",Drama|War,25254625,2020-03-11
+914,"Trader Games (Krach)",Action|Drama|Thriller,26306730,2013-06-05
+915,"Last Starfighter, The",Action|Adventure|Comedy|Sci-Fi,827898,2012-08-18
+916,"Lady Sings the Blues",Drama|Musical,47578,2011-12-28
+917,"Tale of Cinema (Geuk jang jeon)",Drama,6249539,2012-12-04
+918,"Martín (Hache)",Drama,27465577,2016-07-10
+919,"Inspectors, The",Crime|Mystery,23056945,2015-03-26
+920,"Peep World",Comedy,3795825,2014-03-17
+921,"Lady Vanishes, The",Drama|Mystery|Thriller,25497952,2016-01-02
+922,"Business of Fancydancing, The",Drama,24224762,2018-01-09
+923,"Man Who Couldn't Say No, The (Mies joka ei osannut sanoa EI)",Comedy|Drama|Romance,23156603,2018-12-27
+924,Supercondriaque,Comedy,8867576,2011-10-15
+925,Mud,Adventure|Crime|Drama,23926887,2017-03-15
+926,"Black Knight",Adventure|Comedy|Fantasy,2404262,2016-05-17
+927,"Café Metropole",Comedy|Drama|Romance,11449485,2015-04-11
+928,"Love Hina Spring Special",Animation|Comedy|Musical|Romance,14178599,2018-04-23
+929,"Call Northside 777",Crime|Drama|Film-Noir,5733776,2013-06-02
+930,"Totally F***ed Up",Drama,18937289,2013-02-20
+931,Firefox,Action|Sci-Fi|Thriller,17272662,2017-03-18
+932,"Chameleon (Kaméleon)",Comedy|Drama|Thriller,1644573,2016-07-19
+933,"Secret of My Succe$s, The (a.k.a. The Secret of My Success)",Comedy|Romance,31118706,2018-11-17
+934,"Azur & Asmar (Azur et Asmar)",Adventure|Animation|Children,5199358,2015-12-10
+935,"House Is Black, The",Documentary,24195990,2014-12-13
+936,"Last Sunset, The",Western,5779121,2011-04-20
+937,Pulgasari,Action|Drama|Fantasy,15870849,2018-07-17
+938,"Planet of Snail",Documentary|Drama,26861136,2020-07-04
+939,"Five Senses, The",Drama,7729005,2014-11-05
+940,"Blow Job","(no genres listed)",23919458,2018-08-18
+941,"Blood Relatives (Liens de sang, Les)",Crime|Drama|Mystery|Thriller,29380765,2011-09-16
+942,Hugo,Children|Drama|Mystery,25497668,2015-11-09
+943,"Internes Can't Take Money",Crime|Drama|Romance,18870401,2020-07-07
+944,"Ocean Heaven ",Drama,7284982,2017-02-23
+945,"Day The Earth Froze, The (Sampo)",Adventure|Fantasy,26898452,2015-08-14
+946,"Dolores Claiborne",Drama|Thriller,24893726,2014-03-28
+947,"Bright Leaves",Documentary,28112313,2013-06-06
+948,"Hour of the Furnaces, The (Hora de los hornos, La)",Documentary|War,15553166,2019-05-27
+949,"Girl From Nowhere, The",Drama|Romance,27461152,2019-12-19
+950,"Ricky Gervais Live 2: Politics",Comedy,16225943,2017-07-10
+951,"Three Men and a Little Lady",Comedy|Romance,4718337,2011-04-18
+952,"Hard Times",Action|Drama,16219531,2011-09-25
+953,"Crystal Lake Memories: The Complete History of Friday the 13th",Documentary|Horror,20702460,2015-11-12
+954,"Black Pirate, The",Action|Adventure,13686870,2016-09-13
+955,"I Don't Want to Be a Man (Ich möchte kein Mann sein)",Comedy|Romance,21567314,2012-07-13
+956,"Black Fury",Crime|Drama|Romance,12447958,2020-01-08
+957,"You Will Be My Son (Tu seras mon fils)",Drama,29222391,2017-03-02
+958,"Wednesday!, A",Action|Drama|Thriller,31150562,2017-07-10
+959,"Hidden Blade, The (Kakushi ken oni no tsume)",Action|Drama|Romance,17769501,2012-08-04
+960,"Justice League: Throne of Atlantis",Action|Animation,26544654,2017-08-25
+961,"Dangerous Method, A",Drama|Thriller,27556316,2016-04-29
+962,"Never Ever! (Nigdy w zyciu!)",Comedy|Romance,12633776,2018-01-22
+963,Deceiver,Crime|Drama|Thriller,30900385,2017-12-03
+964,Julia,Drama|Thriller,26588156,2017-01-26
+965,"Through and Through (Na wylot)",Crime,2976398,2011-04-03
+966,"Skeleton Man",Action|Horror,19440561,2011-12-17
+967,"Island, The",Action|Sci-Fi|Thriller,9409027,2012-12-03
+968,"Adios Carmen",Drama,26817757,2019-12-04
+969,"Great Beauty, The (Grande Bellezza, La)",Comedy|Drama,22226163,2017-07-09
+970,"Chhoti Si Baat",Comedy|Romance,27246520,2014-09-14
+971,"Were the World Mine",Adventure|Fantasy|Musical|Romance,11388811,2013-12-01
+972,eXistenZ,Action|Sci-Fi|Thriller,10822729,2011-10-26
+973,"Corridor, The (Koridorius)",Drama,21375289,2017-12-19
+974,Quill,Drama,24581168,2015-06-28
+975,"Desert Fox, The",Drama|War,12180446,2017-09-30
+976,"We Are The Night (Wir sind die Nacht)",Drama|Fantasy|Horror,8797415,2011-12-02
+977,Tarnation,Documentary,17028837,2014-12-25
+978,"Alexandria... Why? (Iskanderija... lih?)",Drama,11358968,2018-07-12
+979,Kids,Drama,10891478,2015-04-02
+980,"Beneath the Planet of the Apes",Action|Sci-Fi,11803202,2015-09-05
+981,"Grey, The",Action|Drama,14377087,2019-01-16
+982,Postal,Action|Comedy|Thriller,16388640,2019-08-09
+983,Gigante,Comedy|Drama,25404103,2014-06-03
+984,"All This, and Heaven Too",Drama|Romance,28244607,2015-05-05
+985,"Murder in Greenwich",Crime|Drama|Mystery,19988759,2018-11-11
+986,"Normal Heart, The",Drama,25976464,2018-02-22
+987,"Lola (Twinky) (London Affair)",Comedy|Drama|Romance,5286339,2015-04-20
+988,"New York: A Documentary Film",Documentary,3916902,2019-09-11
+989,"Nightmare on Elm Street 3: Dream Warriors, A",Horror|Thriller,3355993,2013-12-04
+990,"Hero: Love Story of a Spy, The",Action|Adventure|Drama|Musical|Romance|Thrill,15593774,2012-02-10
+991,"Last Elvis, The (Último Elvis, El)",Drama,15778687,2019-03-19
+992,"Vampir (Cuadecuc, vampir)",Documentary|Horror,2103183,2015-06-15
+993,"Bikini Summer II",Comedy,13037088,2016-02-11
+994,"Following Sean",Documentary,24515584,2019-08-08
+995,"Barking Dogs Never Bite (Flandersui gae)",Comedy|Horror,3541921,2016-10-14
+996,"Triumph of the Spirit",Drama,16769551,2016-10-14
+997,"Broadcast News",Comedy|Drama|Romance,35252,2015-05-20
+998,"Ripley's Game",Drama|Thriller,16297078,2017-11-08
+999,Neighbors,Comedy,13490758,2015-09-27
+1000,"Beekeeper, The (O melissokomos)",Drama,8829044,2013-04-28
